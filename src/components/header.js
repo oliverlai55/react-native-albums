@@ -25,3 +25,7 @@ const styles = {
 
 // Make the component avialable to other parts of the app
 export default Header;
+
+// Flex Box styling
+// justifyContent: adjust vertically
+// alignItems: horizontal direction

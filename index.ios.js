@@ -15,6 +15,6 @@ const App = () => (
 );
 
 
-// Render it to the device
+// Render it to the device 
 AppRegistry.registerComponent('albums', () => App);
 // Register component to the application
